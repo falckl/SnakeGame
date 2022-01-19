@@ -1,4 +1,4 @@
-# SnakeGame
+# Snake Game
 
 Your classic game of disco-snake!
 
