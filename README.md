@@ -8,3 +8,6 @@ Functionalities to add:
  - running highscores
  - food items with higher scores
  - levels that increase in speed
+
+
+credits to: https://www.youtube.com/watch?v=bI6e6qjJ8JQ&t=1s&ab_channel=BroCode
