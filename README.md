@@ -10,4 +10,4 @@ Functionalities to add:
  - levels that increase in speed
 
 
-credits to: https://www.youtube.com/watch?v=bI6e6qjJ8JQ&t=1s&ab_channel=BroCode
+Credits to: https://www.youtube.com/watch?v=bI6e6qjJ8JQ&t=1s&ab_channel=BroCode
